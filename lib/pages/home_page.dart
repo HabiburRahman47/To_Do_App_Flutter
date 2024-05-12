@@ -16,7 +16,6 @@ class _HomePageState extends State<HomePage> {
   // list of todo tasks
   List toDoList = [
     ["make tutorial", false],
-    ["do example", false],
   ];
 
   void saveNewTask(){
