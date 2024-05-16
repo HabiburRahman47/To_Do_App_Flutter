@@ -53,6 +53,7 @@ class _HomePageState extends State<HomePage> {
       toDoList.removeAt(index);
     });
   }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
